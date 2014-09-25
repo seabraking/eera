@@ -1,0 +1,71 @@
+    
+     ----jGRASP exec: java LabDPartADriver
+    
+    Create a queue: 
+    
+    
+    isEmpty() returns true
+    
+    Add to queue to get
+    Joe Jess Jim Jill Jane Jerry
+    
+    
+    isEmpty() returns false
+    
+    
+    Testing getFront and dequeue:
+    
+    Joe is at the front of the queue.
+    Joe is removed from the front of the queue.
+    
+    Jess is at the front of the queue.
+    Jess is removed from the front of the queue.
+    
+    Jim is at the front of the queue.
+    Jim is removed from the front of the queue.
+    
+    Jill is at the front of the queue.
+    Jill is removed from the front of the queue.
+    
+    Jane is at the front of the queue.
+    Jane is removed from the front of the queue.
+    
+    Jerry is at the front of the queue.
+    Jerry is removed from the front of the queue.
+    
+    
+    The queue should be empty: isEmpty() returns true
+    
+    
+    Add to queue to get
+    Joe Jess Jim
+    
+    
+    Testing clear:
+    
+    
+    isEmpty() returns true
+    
+    
+    Add to queue to get
+    Joe Jess Jim
+    
+    Joe is at the front of the queue.
+    Joe is removed from the front of the queue.
+    
+    Jess is at the front of the queue.
+    Jess is removed from the front of the queue.
+    
+    Jim is at the front of the queue.
+    Jim is removed from the front of the queue.
+    
+    
+    
+    The queue should be empty: isEmpty() returns true
+    
+    myQueue.getFront() returns null
+    myQueue.dequeue() returns null
+    
+    
+     ----jGRASP: operation complete.
+    
